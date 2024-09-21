@@ -1,0 +1,11 @@
+@media(max-width:768px){
+    .input-group input{
+        display: none;
+    }
+    .navicons span{
+        display: none;
+    }
+    .offinput input{
+        display: inline-block;
+    }
+}
